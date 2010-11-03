@@ -1,0 +1,11 @@
+body						{ margin: 0; padding: 0; font-family: "Lucida Grande", Helvetica, Arial, sans-serif; font-size: 1em; }
+
+article						{ width: 600px; margin: 75px auto; }
+article p					{ line-height: 1.5em; font-family: Georgia, serif; }
+
+h1, h2, h3					{ font-family: Georgia, serif; font-weight: normal; }
+h2							{ margin-top: 2em; }
+
+div.emperor-pedigree		{ border: solid 1px #ccc; padding: 15px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
+ }
+div.emperor-pedigree + p	{ margin-top: 2em; }
