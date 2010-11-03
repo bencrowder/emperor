@@ -61,3 +61,7 @@ You can also add newlines to the detail area by adding pipes:
 
 * `div.emperor-pedigree .male` will let you style the fathers and grandfathers (not the root)
 * `div.emperor-pedigree .female` will let you style the mothers and grandmothers (not the root)
+
+## Notes
+
+Pedigree charts won't show up rendered when using a feed reader or Instapaper.
