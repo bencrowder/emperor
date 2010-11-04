@@ -100,7 +100,7 @@ $(document).ready(function() {
 			var cur_person = new Person();
 
 			// count # of -'s at beginning of string and that becomes cur_gen
-			var cur_gen = line.lastIndexOf(leader, 3) + 1;
+			var cur_gen = line.lastIndexOf(leader, line.indexOf(' ') + 1) + 1;
 			
 			if (cur_gen > 1) {
 				if (last[cur_gen - 1].father) {
