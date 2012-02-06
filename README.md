@@ -4,8 +4,9 @@ Emperor is a Javascript script for embedding pedigree charts into blog posts. Re
 
 ## Usage
 
-1. Link to `emperor.js` in the `<head>` element of your theme. (Also make sure you're including jQuery.)
-2. In your blog posts, create pedigrees like this:
+1\. Link to `emperor.js` in the `<head>` element of your theme. (Also make sure you're including jQuery.)
+
+2\. In your blog posts, create pedigrees like this:
 
 	<div class="emperor-pedigree">
 		- John Doe | b. 1900
