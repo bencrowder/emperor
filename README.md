@@ -66,7 +66,3 @@ You can also add newlines to the detail area by adding pipes:
 ## Notes
 
 Pedigree charts won't show up rendered when using a feed reader or Instapaper.
-
-## License
-
-Public domain.
